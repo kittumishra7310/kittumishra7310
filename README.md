@@ -20,10 +20,10 @@
 `Python` • `Java` • `C` • `SQL`
 
 #### 🌐 Web Development  
-`HTML` • `CSS` • `React.js` • `Node.js` • `Flask`
+`HTML` • `CSS` • `React.js` • `Node.js` • `Flask`, • `Django`
 
 #### 🗄️ Databases  
-`MongoDB` • `MySQL` • `Firebase`
+`MongoDB` • `MySQL` • `Firebase`,• `PostgreSQL`
 
 #### 🧩 Tools & Platforms  
 `Git` • `GitHub` • `VS Code` • `Postman` • `Render` • `Netlify`
